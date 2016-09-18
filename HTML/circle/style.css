@@ -1,0 +1,26 @@
+body {
+	color: white;
+	text-align: center;
+	line-height: 10em;
+}
+div {
+	margin: 2.5em auto;
+}
+
+.circle {
+	border-radius: 50%;
+	background-color: blue;
+
+	width: 10em;
+	height: 10em;
+}
+.circle:hover {
+	box-shadow: 3px 3px 10px 5px;
+}
+
+.box {
+	background-color: green;
+
+	width: 10em;
+	height: 10em;
+}
